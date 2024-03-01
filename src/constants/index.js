@@ -1,0 +1,1 @@
+export const baseurl="https://data-neuron-backend-assignment.onrender.com/api"
